@@ -7,6 +7,7 @@ function App(){
     <button>Submit</button>
     <button>Reset</button>
     <h2>Got it!</h2>
+    <h3>life @</h3>
     </>  )
 }
 export default App;
