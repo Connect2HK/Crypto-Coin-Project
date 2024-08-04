@@ -3,6 +3,7 @@ function App(){
     <>
     <h1>
       Hello world
+      <h2>Ok</h2>
     </h1>
     </>
   )
