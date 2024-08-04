@@ -5,7 +5,7 @@ function App(){
       Hello world
     </h1>
     <button>Submit</button>
-    </>
-  )
+    <button>Reset</button>
+    </>  )
 }
 export default App;
